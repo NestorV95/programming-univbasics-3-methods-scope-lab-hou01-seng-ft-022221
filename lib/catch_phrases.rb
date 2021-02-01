@@ -3,7 +3,7 @@ puts "It's-a me, Mario!\n"
 end
 
 def toadstool
-  puts "Thank you Mario! But Our Princess is in Another Castle!"
+  puts "Thank You Mario! But Our Princess Is In Another Castle!"
 end
 
 def link
@@ -11,8 +11,6 @@ def link
 end
 
 def all_phrases
-  puts #{mario}
-  puts #{toadstool}
-  puts #link}
+  puts "all of the previous catch phrases"
 end
   
