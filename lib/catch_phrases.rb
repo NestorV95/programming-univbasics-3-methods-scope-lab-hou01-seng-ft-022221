@@ -1,5 +1,5 @@
 def mario
-puts "It's-a me, Mario!\n"
+puts "It's-a me, Mario!"
 end
 
 def toadstool
@@ -11,6 +11,8 @@ def link
 end
 
 def all_phrases
-  puts "all of the previous catch phrases"
+  puts "#{mario}"
+  puts "#{toadstool}"
+  puts "#{link}"
 end
   
