@@ -7,7 +7,7 @@ def toadstool do
 end
 
 def link do
-  
+  puts "It's dangerous to go alone! take this."
 end
 
 def all_phrases do
