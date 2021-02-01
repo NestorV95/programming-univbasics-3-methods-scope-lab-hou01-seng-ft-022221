@@ -1,16 +1,16 @@
-def mario do
+def mario
 puts "It's-a me, Mario!\n"
 end
 
-def toadstool do
+def toadstool
   puts "Thank you Mario! But Our Princess is in Another Castle!"
 end
 
-def link do
+def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases do
+def all_phrases
   puts #{mario}
   puts #{toadstool}
   puts #link}
