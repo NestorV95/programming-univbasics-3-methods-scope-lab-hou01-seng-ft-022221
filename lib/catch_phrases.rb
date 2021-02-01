@@ -10,5 +10,7 @@ def link do
   
 end
 
-def all_phrases
+def all_phrases do
+  
+end
   
